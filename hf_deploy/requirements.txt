@@ -1,0 +1,9 @@
+# EcoSort AI - Hugging Face Spaces Deployment
+# requirements.txt for Hugging Face Spaces
+
+torch
+torchvision
+gradio>=4.0.0
+Pillow
+numpy
+opencv-python-headless
